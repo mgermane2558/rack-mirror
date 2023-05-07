@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add integrations/gradio Docs page (#7935)
