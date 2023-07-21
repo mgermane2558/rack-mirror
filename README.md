@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Hold failed upload metrics and upload with next upload metrics (#8513)
