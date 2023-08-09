@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Update Colab notebook for YOLOv8.1 (#8660)
