@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
