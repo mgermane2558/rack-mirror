@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add type hinting to explorer.py (#7388)
