@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Improve Coral Edge TPU guide (#8160)
