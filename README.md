@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update CI.md with CI links (#8786)
