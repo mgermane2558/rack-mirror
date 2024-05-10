@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
